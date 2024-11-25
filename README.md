@@ -16,6 +16,8 @@ The Quiz App is a simple and interactive trivia quiz application built using Pyt
 2. Navigate to the project directory:
     cd quiz-app
 3. Install the required dependencies:
+    pip install -r requirements.txt
+
 
 ## Usage
 1. Run the application.
